@@ -9,5 +9,5 @@ else if (num%5==0) {
   console.log('5の倍数です');
   }  
 else{
-  console.log('変数numの値が出力されている');
+  console.log('15');
   }
