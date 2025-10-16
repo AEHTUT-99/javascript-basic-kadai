@@ -1,6 +1,6 @@
 const today = new Date();
 const [month, day, year] = [
-  today.getMonth(),
+  today.getMonth()+1,
   today.getDate(),
   today.getFullYear(),
 ]
