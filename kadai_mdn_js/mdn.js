@@ -9,4 +9,4 @@ const options = {
   month: "long",
   day: "numeric",
 };
-console.log(new Intl.DateTimeFormat("ja-JP",options).format(today));
+console.log(year+'年'+month+'月'+day+'日');
